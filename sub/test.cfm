@@ -1,4 +1,4 @@
-﻿<cfset test ="test1">
+<cfset test ="test2">
 
 <cfoutput>
   #test#
